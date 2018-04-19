@@ -1,0 +1,22 @@
+{
+  "name": "meta",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yuristsepaniuk/meta.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yuristsepaniuk/meta/issues"
+  },
+  "homepage": "https://github.com/yuristsepaniuk/meta#readme",
+  "dependencies": {
+    "ui": "git@github.com:yuristsepaniuk/meta.git"    
+  }
+}
